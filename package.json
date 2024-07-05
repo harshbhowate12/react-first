@@ -2,7 +2,8 @@
   "name": "route",
   "version": "0.0.1",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build":"react-scripts build"
   },
   "dependencies": {
     "react": "^18.3.1",
